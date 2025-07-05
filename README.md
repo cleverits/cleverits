@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
-  <img width="2 />
+  <img width="2"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node.js logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
