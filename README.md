@@ -45,19 +45,19 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" height="30" />
-  <img width="2" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-  <img width="2" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-  <img width="2" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
-  <img width="2"/>
+  <img width="1"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node.js logo" />
-  <img width="2" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="2" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img width="2" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
 
 </div>
