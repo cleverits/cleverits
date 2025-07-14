@@ -30,9 +30,9 @@
 💻 Начал изучать веб-разработку с 15 лет в KingCode
 
 📚 В данный момент учусь в программе "ԱԲ Սերունդ" (FAST Foundation)
-⚡ Активно участвую в командных проектах и изучаю как frontend, так и backend разработку
+⚡ Активно участвую в командных проектах и изучаю frontend разработку
 
-💬 Люблю писать чистый, структурированный код, уделяю внимание UI/UX и развиваюсь в направлении Full-Stack и Machine Learning
+💬 Люблю писать чистый, структурированный код, уделяю внимание UI/UX и развиваюсь в направлении Frontend и Machine Learning
 
 ✅ Ваш проект будет выполнен качественно, профессионально и в срок — независимо от сложности
 
@@ -50,13 +50,7 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
-  <img width="1"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node.js logo" />
-  <img width="1" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
 
